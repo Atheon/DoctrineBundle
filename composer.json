@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/doctrine-bundle",
+    "name": "atheon/doctrine-bundle",
     "description": "Symfony DoctrineBundle",
     "license": "MIT",
     "type": "symfony-bundle",
